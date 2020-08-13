@@ -48,8 +48,6 @@
 
 - Thanks for visiting. 
 
-- Enjoy it!! :v:
-
 [linkedin]: https://www.linkedin.com/in/lucas-vanni-a66181145/
 [github]: https://github.com/LucasVanni
 [outlook]: mailto:lucas.vanni@hotmail.com
