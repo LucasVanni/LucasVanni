@@ -49,7 +49,7 @@
  <br/>
  <br />
 
-<div align="left" height="300px">
+<div align="left">
   <ul>
     <li align="left">Thanks for visiting :smiley:</li>
   </ul>
