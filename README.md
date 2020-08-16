@@ -45,10 +45,13 @@
      <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   </a>
 <div/>
+  
+ <br/>
+ <br />
 
-<div align="left" height="60px">
+<div align="left" height="300px">
   <ul>
-    <li justify="center" >Thanks for visiting :smiley:</li>
+    <li align="left">Thanks for visiting :smiley:</li>
   </ul>
 </div>
   
