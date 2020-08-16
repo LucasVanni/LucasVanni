@@ -1,5 +1,4 @@
-<img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
+<img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C71
 ### Hi there `I'm Lucas,` welcome to my profile 👋
 
 - :rocket: I’m currently learning Node JS, React JS and React Native at Rocketseat.
@@ -56,6 +55,6 @@
   </ul>
 </div>
   
-[linkedin]: https://www.linkedin.com/in/lucas-vanni-a66181145/
+[linkedin]: https://www.linkedin.com/in/lucas-vanni-a66181145
 [github]: https://github.com/LucasVanni
-[outlook]: mailto:lucas.vanni@hotmail.com
+[outlook]: mailto:lucas.vanni@hotmail.com6&ssl=1
