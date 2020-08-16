@@ -57,4 +57,4 @@
   
 [linkedin]: https://www.linkedin.com/in/lucas-vanni-a66181145
 [github]: https://github.com/LucasVanni
-[outlook]: mailto:lucas.vanni@hotmail.com6&ssl=1
+[outlook]: mailto:lucas.vanni@hotmail.com
