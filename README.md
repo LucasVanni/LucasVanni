@@ -8,8 +8,7 @@
 
 - Lover of coding :exploding_head:
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true)
+<img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
 
 ### Connect with me: 
 [<img align="left" alt="haryel gillet ramalho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
