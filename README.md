@@ -8,6 +8,12 @@
 
 - Lover of coding :exploding_head:
 
+<div align="right" >
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
+
+ <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
+</div>
+
 ### Connect with me: 
 [<img align="left" alt="haryel gillet ramalho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="haryel gillet ramalho | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
@@ -15,7 +21,6 @@
 
 <br />
 
-<img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
 
 ## Languages and Tools:
 
@@ -49,8 +54,7 @@
      <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   </a>
 <div/>
-  
-  <img width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
+
   
  <br/>
  <br/>
@@ -61,7 +65,8 @@
     <li align="left">Thanks for visiting :smiley:</li>
   </ul>
 </div>
-  
+
+ 
 [linkedin]: https://www.linkedin.com/in/lucas-vanni-a66181145
 [github]: https://github.com/LucasVanni
 [outlook]: mailto:lucas.vanni@hotmail.com
