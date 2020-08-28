@@ -9,7 +9,7 @@
 
 - Lover of coding :exploding_head:
 
-<br /><br />
+<br />
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
 
