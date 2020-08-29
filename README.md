@@ -3,7 +3,7 @@
 
 ### Hi there `I'm Lucas,` welcome to my profile 👋
 
-- :rocket: I’m currently learning Node JS, React JS and React Native at Rocketseat.
+- :rocket: I’m currently learning Node JS, React JS and React Native at [Rocketseat](https://rocketseat.com.br).
 - :mortar_board: I'm graduated in computer science at [UNISAGRADO](https://unisagrado.edu.br).
 - :books: Also studied react native at [b7web](https://b7web.com.br).
 
