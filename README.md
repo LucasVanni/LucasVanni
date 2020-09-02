@@ -4,6 +4,7 @@
 ### Hi there `I'm Lucas,` welcome to my profile 👋
 
 - :rocket: I’m currently learning Node JS, React JS and React Native at [Rocketseat](https://rocketseat.com.br).
+    - Check my [profile](https://app.rocketseat.com.br/me/lucas-vanni). in Rocketseat App to more infos about i'm doing in Rocektseat course. 
 - :mortar_board: I'm graduated in computer science at [UNISAGRADO](https://unisagrado.edu.br).
 - :books: Also studied react native at [b7web](https://b7web.com.br).
 
