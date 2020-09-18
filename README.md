@@ -63,12 +63,6 @@
     <li align="left">Thanks for visiting :smiley:</li>
   </ul>
 </div>
-
-
-<div align="center" >
-  <img width="400" src="https://nextlevelweek.com/convite/lucasvanni" alt="LucasVanni's invite nlw" />
-  </ul>
-</div>
  
 [linkedin]: https://www.linkedin.com/in/lucas-vanni-a66181145
 [github]: https://github.com/LucasVanni
