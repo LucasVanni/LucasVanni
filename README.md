@@ -27,7 +27,7 @@
 
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
-    <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
+    <img align="left" alt="HTML5" width="40px" src="https://bognarjunior.files.wordpress.com/2014/12/1417589451_html-256.png?w=256" /> 
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html">
     <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -56,10 +56,11 @@
     
  <div>
     <a href="https://reactnative.dev">
-        <img align="left" alt="React Native" width="100px" src="https://pajaaleksic.com/wp-content/uploads/2019/07/react-native-workshop.jpg" />
+        <img align="left" alt="React Native" width="200px" src="https://pajaaleksic.com/wp-content/uploads/2019/07/react-native-workshop.jpg" />
     </a>
  </div>
-  
+ 
+ <br/><br/>  
  <br/><br/>
 
 <div align="center" >
