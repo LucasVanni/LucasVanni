@@ -52,9 +52,11 @@
   </a>
 <div/>
     
+<br/><br/>
+    
  <div>
     <a href="https://reactnative.dev">
-        <img align="left" alt="React Native" width="40px" src="https://pajaaleksic.com/wp-content/uploads/2019/07/react-native-workshop.jpg" />
+        <img align="left" alt="React Native" src="https://pajaaleksic.com/wp-content/uploads/2019/07/react-native-workshop.jpg" />
     </a>
  </div>
   
