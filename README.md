@@ -42,7 +42,7 @@
     <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   </a>
   <a href="https://code.visualstudio.com">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   </a>
   <a href="https://git-scm.com">
     <img align="left" alt="GitHub" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
@@ -56,7 +56,7 @@
     
  <div>
     <a href="https://reactnative.dev">
-        <img align="left" alt="React Native" src="https://pajaaleksic.com/wp-content/uploads/2019/07/react-native-workshop.jpg" />
+        <img align="left" alt="React Native" width="100px" src="https://pajaaleksic.com/wp-content/uploads/2019/07/react-native-workshop.jpg" />
     </a>
  </div>
   
