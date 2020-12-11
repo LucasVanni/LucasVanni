@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="400" src="https://www.cerebro.fit/uploads/thumbnails/course_thumbnails/course_thumbnail_default_70.jpg" />
 
 
 ### Hi there `I'm Lucas,` welcome to my profile 👋
