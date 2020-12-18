@@ -62,11 +62,12 @@
  
  <br/><br/>  
  <br/><br/>
+ <br/><br/>  
 
 <div align="center" >
-    <ul align="left">
-    <li align="left">Thanks for visiting :smiley:</li>
-  </ul>
+   <ul align="left">
+     <li align="left">Thanks for visiting :smiley:</li>
+   </ul>
 </div>
  
 [linkedin]: https://www.linkedin.com/in/lucas-vanni-a66181145
