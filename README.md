@@ -15,9 +15,9 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
 
 ### Connect with me: 
-[<img align="left" alt="haryel gillet ramalho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="haryel gillet ramalho | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
-[<img align="left" alt="haryel gillet ramalho | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />][outlook]
+[<img align="left" alt="haryel gillet ramalho | LinkedIn" width="22px" style="color: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="haryel gillet ramalho | Github" width="22px" style="color: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
+[<img align="left" alt="haryel gillet ramalho | E-mail" width="22px" style="color: #fff; background: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />][outlook]
 
 <br />
 
