@@ -51,12 +51,17 @@
      <img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   </a>
 <div/>
+
+
     
  <div>
+    <br/><br/>
      <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
  </div>
  
-  <a href="https://reactnative.dev">
+  <br/><br/>
+ 
+  <a href="https://reactnative.dev" >
         <img align="left" alt="React Native" width="150px" src="https://pajaaleksic.com/wp-content/uploads/2019/07/react-native-workshop.jpg" />
     </a>
  
