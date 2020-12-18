@@ -44,28 +44,25 @@
   <a href="https://code.visualstudio.com">
     <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   </a>
-  <a href="https://git-scm.com">
-    <img align="left" alt="GitHub" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-  </a>
 <div/>
 
-
-    
  <div>
     <br/><br/>
      <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
  </div>
  
-  <br/><br/>
-   <div>
-  <a src="https://ohmyz.sh">
-     <img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  </a>
- 
-  <a href="https://reactnative.dev" >
+<br/><br/>
+ <div>
+    <a href="https://git-scm.com">
+        <img align="left" alt="GitHub" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+    </a>    
+    <a src="https://ohmyz.sh">
+        <img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+    </a>
+    <a href="https://reactnative.dev" >
         <img align="left" alt="React Native" width="150px" src="https://pajaaleksic.com/wp-content/uploads/2019/07/react-native-workshop.jpg" />
     </a>
-  </div>
+ </div>
  <br/><br/>  
  <br/><br/>
  <br/><br/>  
