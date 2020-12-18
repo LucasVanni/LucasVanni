@@ -10,19 +10,21 @@
 
 - Lover of coding :exploding_head:
 
-<br />
-
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
 
 ### Connect with me: 
-[<img align="left" alt="haryel gillet ramalho | LinkedIn"  width="25px" src="https://github.com/LucasVanni/LucasVanni/blob/LucasVanni-patch-1/imgs/linkedin.png" />][linkedin]
-[<img align="left" alt="haryel gillet ramalho | Github" width="22px"  src="https://github.com/LucasVanni/LucasVanni/blob/LucasVanni-patch-1/imgs/github.png" />][github]
-[<img align="left" alt="haryel gillet ramalho | E-mail" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />][outlook]
+[<img align="left" alt="haryel gillet ramalho | LinkedIn"  width="40px" src="https://github.com/LucasVanni/LucasVanni/blob/LucasVanni-patch-1/imgs/linkedin.png" />][linkedin]
+[<img align="left" alt="haryel gillet ramalho | Github" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/LucasVanni-patch-1/imgs/github.png" />][github]
+[<img align="left" alt="haryel gillet ramalho | E-mail" width="40px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />][outlook]
 
-<br />
+<br /><br />
 
 ## Languages and Tools:
 
+<div>
+    <br/><br/>
+     <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
+ </div>
 
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
@@ -45,10 +47,7 @@
   </a>
 <div/>
 
- <div>
-    <br/><br/>
-     <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
- </div>
+ 
  
  <div>
     <a href="https://git-scm.com">
