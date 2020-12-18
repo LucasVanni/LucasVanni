@@ -55,8 +55,10 @@
     </a>
  </div>
  
+  <br/><br/>
+  <br/><br/>
+ 
  <div>
-    <br/><br/>
      <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
  </div>
  
