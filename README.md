@@ -22,11 +22,6 @@
 
 ## Languages and Tools:
 
- <div>
-    <br/><br/>
-     <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
- </div>
-
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
     <img align="left" alt="HTML5" width="40px" src="https://bognarjunior.files.wordpress.com/2014/12/1417589451_html-256.png?w=256" /> 
@@ -47,6 +42,11 @@
     <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   </a>
 <div/>
+    
+ <div>
+    <br/><br/>
+     <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
+ </div>
 
  <div>
     <a href="https://git-scm.com">
