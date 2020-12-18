@@ -13,9 +13,9 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
 
 ### Connect with me: 
-[<img align="left" alt="haryel gillet ramalho | LinkedIn"  width="40px" src="https://github.com/LucasVanni/LucasVanni/blob/LucasVanni-patch-1/imgs/linkedin.png" />][linkedin]
-[<img align="left" alt="haryel gillet ramalho | Github" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/LucasVanni-patch-1/imgs/github.png" />][github]
-[<img align="left" alt="haryel gillet ramalho | E-mail" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/LucasVanni-patch-1/imgs/outlook.png" />][outlook]
+[<img align="left" alt="haryel gillet ramalho | LinkedIn"  width="40px" src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/linkedin.png" />][linkedin]
+[<img align="left" alt="haryel gillet ramalho | Github" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/github.png" />][github]
+[<img align="left" alt="haryel gillet ramalho | E-mail" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/outlook.png" />][outlook]
 
 <br /><br />
 
