@@ -59,7 +59,7 @@
         <img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
     </a>
     <a href="https://reactnative.dev" >
-        <img align="left" alt="React Native" width="100px" src="https://pajaaleksic.com/wp-content/uploads/2019/07/react-native-workshop.jpg" />
+        <img align="left" alt="React Native" width="150px" src="https://pajaaleksic.com/wp-content/uploads/2019/07/react-native-workshop.jpg" />
     </a>
  </div>
  <br/><br/>  
