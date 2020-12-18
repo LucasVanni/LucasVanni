@@ -15,7 +15,7 @@
 ### Connect with me: 
 [<img align="left" alt="haryel gillet ramalho | LinkedIn"  width="40px" src="https://github.com/LucasVanni/LucasVanni/blob/LucasVanni-patch-1/imgs/linkedin.png" />][linkedin]
 [<img align="left" alt="haryel gillet ramalho | Github" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/LucasVanni-patch-1/imgs/github.png" />][github]
-[<img align="left" alt="haryel gillet ramalho | E-mail" width="40px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />][outlook]
+[<img align="left" alt="haryel gillet ramalho | E-mail" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/LucasVanni-patch-1/imgs/outlook.png" />][outlook]
 
 <br /><br />
 
