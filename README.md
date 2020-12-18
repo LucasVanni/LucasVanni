@@ -10,12 +10,10 @@
 
 - Lover of coding :exploding_head:
 
-<br />
+### Connect with me: 
+
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
 
-</br>
-
-### Connect with me: 
 [<img align="left" alt="haryel gillet ramalho | LinkedIn"  width="40px" src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/linkedin.png" />][linkedin]
 [<img align="left" alt="haryel gillet ramalho | Github" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/github.png" />][github]
 [<img align="left" alt="haryel gillet ramalho | E-mail" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/outlook.png" />][outlook]
@@ -50,9 +48,6 @@
   </a>
 <div/>
 
-
- 
- 
  <div>
     <a href="https://git-scm.com">
         <img align="left" alt="GitHub" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
