@@ -10,7 +10,10 @@
 
 - Lover of coding :exploding_head:
 
+<br />
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
+
+</br>
 
 ### Connect with me: 
 [<img align="left" alt="haryel gillet ramalho | LinkedIn"  width="40px" src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/linkedin.png" />][linkedin]
@@ -20,6 +23,11 @@
 <br /><br />
 
 ## Languages and Tools:
+
+ <div>
+    <br/><br/>
+     <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
+ </div>
 
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
@@ -59,11 +67,6 @@
  <br/><br/>  
  <br/><br/>
  <br/><br/>  
- 
- <div>
-    <br/><br/>
-     <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
- </div>
 
 <div align="center" >
    <ul align="left">
