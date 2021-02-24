@@ -39,7 +39,7 @@
         <img align="left" alt="Node.js" src="https://img.shields.io/badge/-Node_JS-018635?style=for-the-badge&logoColor=fff&logo=node.js" />
     </a>
 <div/>
- <div style="margin-top: 10px" >
+ <div style="margin-top:10px;" >
      <a href="https://reactnative.dev" >
         <img align="left" alt="React Native" src="https://img.shields.io/badge/-React_Native-0488B0?style=for-the-badge&logoColor=fff&logo=react" />
     </a>
