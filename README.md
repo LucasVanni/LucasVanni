@@ -38,12 +38,11 @@
     <a href="https://nodejs.org/en/">
         <img align="left" alt="Node.js" src="https://img.shields.io/badge/-Node_JS-018635?style=for-the-badge&logoColor=fff&logo=node.js" />
     </a>
+<div/>
+ <div style="margin-top: 10px" >
      <a href="https://reactnative.dev" >
         <img align="left" alt="React Native" src="https://img.shields.io/badge/-React_Native-0488B0?style=for-the-badge&logoColor=fff&logo=react" />
     </a>
-<div/>
-
- <div>
     <a href="https://git-scm.com">
         <img align="left" alt="GitHub" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
     </a>    
