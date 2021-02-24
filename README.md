@@ -50,7 +50,7 @@
     <a href="https://code.visualstudio.com">
         <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-0074C1?style=for-the-badge&logoColor=fff&logo=visual-studio-code" />
     </a>
-    <a src="https://ohmyz.sh">
+    <a href="https://ohmyz.sh">
         <img align="left" alt="Bash" src="https://img.shields.io/badge/-Terminal-0277BD?style=for-the-badge&logoColor=fff&logo=powershell" />
     </a>
   <br/><br/>
