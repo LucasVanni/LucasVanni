@@ -23,37 +23,38 @@
 ## Languages and Tools:
 
 <div>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
-    <img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E54C21?style=flat&logoColor=fff&logo=html5" /> 
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-57A7E4?style=flat&logoColor=fff&logo=css3" />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=flat&logoColor=ff0&logo=javascript" />
-  </a>
-  <a href="https://pt-br.reactjs.org">
-    <img align="left" alt="React JS" src="https://img.shields.io/badge/-React-0499B0?style=flat&logoColor=fff&logo=react" />
-  </a>
-  <a href="https://nodejs.org/en/">
-    <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  </a>
-  <a href="https://code.visualstudio.com">
-    <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
+        <img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E54C21?style=flat&logoColor=fff&logo=html5" /> 
+    </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+        <img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-57A7E4?style=flat&logoColor=fff&logo=css3" />
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+        <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=flat&logoColor=ff0&logo=javascript" />
+    </a>
+    <a href="https://pt-br.reactjs.org">
+        <img align="left" alt="React JS" src="https://img.shields.io/badge/-React-0499B0?style=flat&logoColor=fff&logo=react" />
+    </a>
+    <a href="https://nodejs.org/en/">
+        <img align="left" alt="Node.js" src="https://img.shields.io/badge/-Node_JS-018635?style=flate&logoColor=fff&logo=node.js" />
+    </a>
+     <a href="https://reactnative.dev" >
+        <img align="left" alt="React Native" src="https://img.shields.io/badge/-React_Native-0488B0?style=flat&logoColor=fff&logo=react" />
+    </a>
 <div/>
 
  <div>
     <a href="https://git-scm.com">
         <img align="left" alt="GitHub" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
     </a>    
+    <a href="https://code.visualstudio.com">
+        <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    </a>
     <a src="https://ohmyz.sh">
         <img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
     </a>
   <br/><br/>
-    <a href="https://reactnative.dev" >
-        <img align="left" alt="React Native" src="https://img.shields.io/badge/-React_Native-0488B0?style=flat&logoColor=fff&logo=react" />
-    </a>
+   
  </div>
  
  <div>
