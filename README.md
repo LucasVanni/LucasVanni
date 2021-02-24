@@ -33,7 +33,7 @@
     <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   </a>
   <a href="https://pt-br.reactjs.org">
-    <img align="left" alt="React JS" width="40px" src="https://img.shields.io/badge/-React-0488B0?style=for-the-badge&logoColor=fff&logo=react" />
+    <img align="left" alt="React JS" src="https://img.shields.io/badge/-React-0499B0?style=flat&logoColor=fff&logo=react" />
   </a>
   <a href="https://nodejs.org/en/">
     <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -52,7 +52,7 @@
     </a>
   <br/><br/>
     <a href="https://reactnative.dev" >
-        <img align="left" alt="React Native" width="150px" src="https://img.shields.io/badge/-React_Native-0488B0?style=flat&logoColor=fff&logo=react" />
+        <img align="left" alt="React Native" src="https://img.shields.io/badge/-React_Native-0488B0?style=flat&logoColor=fff&logo=react" />
     </a>
  </div>
  
