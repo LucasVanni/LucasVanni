@@ -20,7 +20,7 @@
 
 <br /><br />
 <div>
-    ## Languages and Tools:
+    <h3>Languages and Tools:</h3>
 
   <div>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
