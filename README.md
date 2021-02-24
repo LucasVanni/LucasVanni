@@ -51,7 +51,7 @@
         <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-0074C1?style=for-the-badge&logoColor=fff&logo=visual-studio-code" />
     </a>
     <a src="https://ohmyz.sh">
-        <img align="left" alt="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+        <img align="left" alt="Bash" src="https://img.shields.io/badge/-Terminal-0277BD?style=for-the-badge&logoColor=fff&logo=powershell" />
     </a>
   <br/><br/>
    
