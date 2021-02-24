@@ -52,11 +52,8 @@
             <img align="left" alt="Node.js" src="https://img.shields.io/badge/-Node_JS-018635?style=for-the-badge&logoColor=fff&logo=node.js" />
         </a>
         <a href="https://code.visualstudio.com">
-            <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-0074C1?style=for-the-badge&logoColor=fff&logo=visual-studio-code" />
+            <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-VS_Code-0074C1?style=for-the-badge&logoColor=fff&logo=visual-studio-code" />
         </a>
-    </div>
-    <br /><br />
-    <div>
         <a href="https://ohmyz.sh">
             <img align="left" alt="Bash" src="https://img.shields.io/badge/-Terminal-0277BD?style=for-the-badge&logoColor=fff&logo=powershell" />
         </a>
