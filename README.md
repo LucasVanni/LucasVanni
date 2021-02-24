@@ -24,13 +24,13 @@
 
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
-    <img align="left" alt="HTML5" width="40px" src="https://bognarjunior.files.wordpress.com/2014/12/1417589451_html-256.png?w=256" /> 
+    <img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E54C21?style=flat&logoColor=fff&logo=html5" /> 
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img align="left" alt="CSS3" width="40px" src="https://i0.wp.com/www.tutorialwebdesign.com.br/wp-content/uploads/2015/07/css3.jpg?fit=250%2C237" />
+    <img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-57A7E4?style=flat&logoColor=fff&logo=css3" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=flat&logoColor=ff0&logo=javascript" />
   </a>
   <a href="https://pt-br.reactjs.org">
     <img align="left" alt="React JS" src="https://img.shields.io/badge/-React-0499B0?style=flat&logoColor=fff&logo=react" />
