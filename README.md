@@ -32,6 +32,9 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
         <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=for-the-badge&logoColor=ff0&logo=javascript" />
     </a>
+    <a href="https://git-scm.com">
+            <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F54D27?style=for-the-badge&logoColor=fff&logo=git" />
+    </a>
   </div>
   <br/><br/> 
     <div>
@@ -47,9 +50,6 @@
     </div>
     <br/><br/>
      <div>
-        <a href="https://git-scm.com">
-            <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F54D27?style=for-the-badge&logoColor=fff&logo=git" />
-        </a>    
         <a href="https://code.visualstudio.com">
             <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-0074C1?style=for-the-badge&logoColor=fff&logo=visual-studio-code" />
         </a>
