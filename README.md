@@ -19,7 +19,7 @@
 [<img align="left" alt="haryel gillet ramalho | E-mail" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/outlook.png" />][outlook]
 
 <br /><br />
-
+<div>
 ## Languages and Tools:
 
 <div>
@@ -38,7 +38,7 @@
     <a href="https://nodejs.org/en/">
         <img align="left" alt="Node.js" src="https://img.shields.io/badge/-Node_JS-018635?style=for-the-badge&logoColor=fff&logo=node.js" />
     </a>
-<div/>
+</div>
  <br/><br/> 
  <div>
      <a href="https://reactnative.dev" >
@@ -54,7 +54,7 @@
         <img align="left" alt="Bash" src="https://img.shields.io/badge/-Terminal-0277BD?style=for-the-badge&logoColor=fff&logo=powershell" />
     </a>
   <br/><br/>
-   
+ </div>
  </div>
  
  <div>
