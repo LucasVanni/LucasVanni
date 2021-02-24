@@ -24,22 +24,22 @@
 
 <div>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
-        <img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E54C21?style=flat&logoColor=fff&logo=html5" /> 
+        <img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E54C21?style=for-the-badge&logoColor=fff&logo=html5" /> 
     </a>
     <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-        <img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-57A7E4?style=flat&logoColor=fff&logo=css3" />
+        <img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-57A7E4?style=for-the-badge&logoColor=fff&logo=css3" />
     </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-        <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=flat&logoColor=ff0&logo=javascript" />
+        <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=for-the-badge&logoColor=ff0&logo=javascript" />
     </a>
     <a href="https://pt-br.reactjs.org">
-        <img align="left" alt="React JS" src="https://img.shields.io/badge/-React-0499B0?style=flat&logoColor=fff&logo=react" />
+        <img align="left" alt="React JS" src="https://img.shields.io/badge/-React-0499B0?style=for-the-badge&logoColor=fff&logo=react" />
     </a>
     <a href="https://nodejs.org/en/">
-        <img align="left" alt="Node.js" src="https://img.shields.io/badge/-Node_JS-018635?style=flate&logoColor=fff&logo=node.js" />
+        <img align="left" alt="Node.js" src="https://img.shields.io/badge/-Node_JS-018635?style=for-the-badge&logoColor=fff&logo=node.js" />
     </a>
      <a href="https://reactnative.dev" >
-        <img align="left" alt="React Native" src="https://img.shields.io/badge/-React_Native-0488B0?style=flat&logoColor=fff&logo=react" />
+        <img align="left" alt="React Native" src="https://img.shields.io/badge/-React_Native-0488B0?style=for-the-badge&logoColor=fff&logo=react" />
     </a>
 <div/>
 
