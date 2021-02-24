@@ -48,7 +48,7 @@
         <img align="left" alt="GitHub" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
     </a>    
     <a href="https://code.visualstudio.com">
-        <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+        <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-0074C1?style=flat&logoColor=fff&logo=visual-studio-code" />
     </a>
     <a src="https://ohmyz.sh">
         <img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -58,7 +58,6 @@
  </div>
  
  <div>
-     <br/>
      <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
  </div>
  <br/><br/>  
