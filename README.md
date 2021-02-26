@@ -59,6 +59,15 @@
             <img align="left" alt="Bash" src="https://img.shields.io/badge/-Terminal-0277BD?style=for-the-badge&logoColor=fff&logo=powershell" />
         </a>
     </div>
+   <br/><br/>
+   <div>
+      <a href="https://vuejs.org">
+        <img align="left" alt="VUE JS" src="https://img.shields.io/badge/-Vue_JS-31475E?style=for-the-badge&logoColor=3FB984&logo=vue.js" />
+      </a>
+     <a href="https://nestjs.com">
+        <img align="left" alt="NEST JS" src="https://img.shields.io/badge/-NEST_JS-ccc?style=for-the-badge&logoColor=E0234E&logo=nestJS" />
+      </a>
+  </div>
  </div>
  <br />
  <div>
