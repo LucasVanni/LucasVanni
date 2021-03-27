@@ -82,6 +82,6 @@
    </ul>
 </div>
  
-[linkedin]: https://www.linkedin.com/in/lucas-vanni-a66181145
+[linkedin]: https://www.linkedin.com/in/lucas-vanni/
 [github]: https://github.com/LucasVanni
 [outlook]: mailto:lucas.vanni@hotmail.com
