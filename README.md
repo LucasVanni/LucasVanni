@@ -75,14 +75,17 @@
  </div>
  <br/><br/>  
  <br/><br/>  
- 
- <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia" alt="LucasVanni's wakatime stats" />
 
 <div align="center" >
    <ul align="left">
      <li align="left">Thanks for visiting :smiley:</li>
    </ul>
 </div>
+
+
+<br/><br/>
+<br/><br/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia" alt="LucasVanni's wakatime stats" />
  
 [linkedin]: https://www.linkedin.com/in/lucas-vanni/
 [github]: https://github.com/LucasVanni
