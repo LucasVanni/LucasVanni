@@ -73,6 +73,8 @@
  <div>
      <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
  </div>
+ 
+ <br/><br/>
  <br/><br/>
 
 <div align="center" >
@@ -82,6 +84,7 @@
 </div>
 
 
+<br/><br/>
 <br/><br/>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia" alt="LucasVanni's wakatime stats" />
  
