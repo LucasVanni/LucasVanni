@@ -76,7 +76,7 @@
  <br/><br/>  
  <br/><br/>  
  
- ![Github Status](https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia)
+ <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia" alt="LucasVanni's wakatime stats" />
 
 <div align="center" >
    <ul align="left">
