@@ -75,6 +75,8 @@
  </div>
  <br/><br/>  
  <br/><br/>  
+ 
+ ![Github Status](https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia)
 
 <div align="center" >
    <ul align="left">
