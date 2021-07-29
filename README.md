@@ -87,6 +87,8 @@
 <br/><br/>
 <br/><br/>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia" alt="LucasVanni's wakatime stats" />
+
+![Snake animation](https://github.com/LucasVanni/LucasVanni/blob/output/github-contribution-grid-snake.svg)
  
 [linkedin]: https://www.linkedin.com/in/lucas-vanni/
 [github]: https://github.com/LucasVanni
