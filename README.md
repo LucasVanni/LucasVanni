@@ -1,5 +1,4 @@
-<img align="right" width="400" src="https://www.cerebro.fit/uploads/thumbnails/course_thumbnails/course_thumbnail_default_70.jpg" />
-
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### Hi there `I'm Lucas,` welcome to my profile 👋
 
@@ -13,7 +12,7 @@
 
 
 <div align="center" >
-    <img  align="center" alt="HTML5" src="https://github.com/LucasVanni/LucasVanni/blob/output/github-contribution-grid-snake.svg" /> 
+    <img align="center" alt="HTML5" src="https://github.com/LucasVanni/LucasVanni/blob/output/github-contribution-grid-snake.svg" /> 
     <br />
     <br />
     <img align="left"  width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
@@ -72,6 +71,13 @@
  </div>
  
 <br/>
+
+<div align="center">
+    <h3>Status do wakatime (semanais/7 dias atrás)</h3>
+    <img  width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia" alt="LucasVanni's wakatime stats" />
+</div>
+ 
+ <br/>
  
 <div>
     <div align="center" >
@@ -90,7 +96,3 @@
         <img align="center" alt="Lucas Vanni | E-mail" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/outlook.png" />
     </a>
 </div>
-
-<!-- <img  width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia" alt="LucasVanni's wakatime stats" /> -->
-
- 
