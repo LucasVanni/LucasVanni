@@ -6,7 +6,7 @@
     - Check my [profile](https://app.rocketseat.com.br/me/lucas-vanni) in Rocktseat App to more infos about i'm doing in Rocektseat course. 
 - :mortar_board: I'm graduated in computer science at [UNISAGRADO](https://unisagrado.edu.br).
 - :books: Also studied react native at [b7web](https://b7web.com.br).
-- :man_technologist: Currently working with VueJS (v2), ReactJS (NextJS) and NestJS at [EZ Devs](https://github.com/ezDevs)
+- :man_technologist: Currently working with VueJS (v2), ReactJS (NextJS) and NestJS at [Kodus](https://github.com/ezDevs)
 - :man_technologist: Currently studing [Full Cycle Course](https://fullcycle.com.br/)
 
 - Lover of coding :exploding_head:
