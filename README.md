@@ -17,8 +17,8 @@
     <img align="center" alt="HTML5" src="https://github.com/LucasVanni/LucasVanni/blob/output/github-contribution-grid-snake.svg" /> 
     <br />
     <br />
-    <img align="left" width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
-    <img align="right" width="367" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
+    <img align="left" width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-v0579&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
+    <img align="right" width="367" src="https://github-readme-stats.vercel.app/api?username=Lucas-v0579&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
 </div>
     
 <br />
@@ -90,10 +90,10 @@
 
 <div align="center">
     <h3 align="center">Connect with me in</h3>
-    <a href="https://www.linkedin.com/in/lucas-vanni/">
+    <a href="https://www.linkedin.com/in/lucas-v0579/">
         <img align="center" alt="Lucas Vanni | LinkedIn"  width="40px" src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/linkedin.png" />
     </a>
-    <a  href="https://github.com/LucasVanni">
+    <a  href="https://github.com/Lucas-v0579">
         <img align="center" alt="Lucas Vanni | Github" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/github.png" />
     </a>
     <a href="mailto:lucas.vanni@hotmail.com">
