@@ -93,7 +93,7 @@
     <a href="https://www.linkedin.com/in/lucas-v0579/">
         <img align="center" alt="Lucas Vanni | LinkedIn"  width="40px" src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/linkedin.png" />
     </a>
-    <a  href="https://github.com/Lucas-v0579">
+    <a  href="https://github.com/LucasVanni">
         <img align="center" alt="Lucas Vanni | Github" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/github.png" />
     </a>
     <a href="mailto:lucas.vanni@hotmail.com">
