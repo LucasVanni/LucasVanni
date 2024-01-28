@@ -96,7 +96,4 @@
     <a  href="https://github.com/LucasVanni">
         <img align="center" alt="Lucas Vanni | Github" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/github.png" />
     </a>
-    <a href="mailto:lucas.vanni@hotmail.com">
-        <img align="center" alt="Lucas Vanni | E-mail" width="40px"  src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/outlook.png" />
-    </a>
 </div>
