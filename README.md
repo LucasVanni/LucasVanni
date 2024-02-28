@@ -17,8 +17,8 @@
     <img align="center" alt="HTML5" src="https://github.com/LucasVanni/LucasVanni/blob/output/github-contribution-grid-snake.svg" /> 
     <br />
     <br />
-    <img align="left" width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-v0579&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
-    <img align="right" width="367" src="https://github-readme-stats.vercel.app/api?username=Lucas-v0579&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
+    <img align="left" width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
+    <img align="right" width="367" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
 </div>
     
 <br />
