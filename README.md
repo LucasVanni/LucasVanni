@@ -7,7 +7,8 @@
 - :mortar_board: I'm graduated in computer science at [UNISAGRADO](https://unisagrado.edu.br).
 - :books: Also studied react native at [b7web](https://b7web.com.br).
 - :man_technologist: Worked with VueJS (v2), ReactJS (NextJS) and NestJS.
-- :man_technologist: Currently work with Typescript(TS) at [Kodus](https://github.com/kodustech)
+- :man_technologist: Previous work with Typescript(TS) at [Kodus](https://github.com/kodustech)
+- :man_technologist: Currently i'm in open to work
 - :man_technologist: Currently studing [Full Cycle Course](https://fullcycle.com.br/)
 
 - Lover of coding :exploding_head:
