@@ -10,6 +10,7 @@
 - :man_technologist: Previous work with Typescript(TS) at [Kodus](https://github.com/kodustech)
 - :man_technologist: Currently i'm in open to work
 - :man_technologist: Currently studing [Full Cycle Course](https://fullcycle.com.br/)
+- Can u call with me? Send a message to me [LinkedIn](https://www.linkedin.com/in/lucas-vanni/)
 
 - Lover of coding :exploding_head:
 
