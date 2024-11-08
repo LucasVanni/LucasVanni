@@ -77,7 +77,7 @@
 <br/>
 
 <div align="center">
-    <h3>Status do wakatime (semanais/7 dias atrás)</h3>
+    <h3>Status do wakatime</h3>
      <a href="https://wakatime.com/@lucasvanni">
         <img  width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia" alt="LucasVanni's wakatime stats" />
     </a>
