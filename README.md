@@ -17,6 +17,7 @@
 
 <div align="center" >
     <img align="center" alt="HTML5" src="https://github.com/LucasVanni/LucasVanni/blob/output/github-contribution-grid-snake.svg" /> 
+    <img alt="github-snake" src="github-snake.svg" />
     <br />
     <br />
     <img align="left" width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
