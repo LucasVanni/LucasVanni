@@ -12,26 +12,7 @@
 - :man_technologist: Currently studing [Full Cycle Course](https://fullcycle.com.br/)
 - Can u call with me? Send a message to me at [LinkedIn](https://www.linkedin.com/in/lucas-vanni/)
 
-- Lover of coding :exploding_head:
-
-
-<div align="center" >
-    <img align="center" alt="HTML5" src="https://github.com/LucasVanni/LucasVanni/blob/output/github-contribution-grid-snake.svg" />
-    <br />
-    <br />
-    <img align="left" width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
-    <img align="right" width="367" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
-</div>
-    
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
+<br/>
 <div align="center">
    <h3>Languages and Tools:</h3>
     <div>
@@ -49,7 +30,10 @@
         </a>
         <a href="https://nestjs.com">
             <img align="center" alt="NEST JS" src="https://img.shields.io/badge/-NEST_JS-ccc?style=for-the-badge&logoColor=E0234E&logo=nestJS" />
-        </a>  
+        </a>
+        <a href="https://nextjs.org/">
+            <img align="center" alt="NextJS" src="https://img.shields.io/badge/-NEXT_JS-ccc?style=for-the-badge&logoColor=000000&logo=next.js"" />
+        </a>
     </div>
     <br/>
     <div>
@@ -73,17 +57,18 @@
         </a>
     </div>
  </div>
- 
-<br/>
 
-<div align="center">
-    <h3>Status do wakatime</h3>
-     <a href="https://wakatime.com/@lucasvanni">
+
+<div align="center" >
+    <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
+    <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
+    <a href="https://wakatime.com/@lucasvanni">
         <img  width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia" alt="LucasVanni's wakatime stats" />
-    </a>
+    </a
 </div>
- 
- <br/>
+    
+<br />
+<br />
  
 <div>
     <div align="center" >
