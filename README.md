@@ -12,7 +12,20 @@
 - :man_technologist: Currently studing [Full Cycle Course](https://fullcycle.com.br/)
 - Can u call with me? Send a message to me at [LinkedIn](https://www.linkedin.com/in/lucas-vanni/)
 
-<br/>
+<div align="center" >
+    <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
+    <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 <div align="center">
    <h3>Languages and Tools:</h3>
     <div>
@@ -58,25 +71,17 @@
     </div>
  </div>
 
-    
-<br />
-<br />
+<br/>
 
-<div align="center" >
-    <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=LucasVanni&show_icons=true&theme=algolia&count_private=true" alt="LucasVanni's github stats" />
-    <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanni&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
-</div>
-<br/>
-<br/>
 <div align="center">
+    <h3>Status do wakatime</h3>
      <a href="https://wakatime.com/@lucasvanni">
-        <img  width="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia" alt="LucasVanni's wakatime stats" />
-    </a
+        <img  width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia" alt="LucasVanni's wakatime stats" />
+    </a>
 </div>
-    
-<br />
-<br />
- 
+
+ <br/>
+
 <div>
     <div align="center" >
         <p>Thanks for visiting :smiley:</>
