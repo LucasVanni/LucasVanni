@@ -26,6 +26,14 @@
 <br />
 <br />
 
+<div align="left">
+     <a href="https://wakatime.com/@lucasvanni">
+        <img width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia&hide=Java,Objective-C,Bash,Elixir,Go,Diff,Batchfile,textmate,yarn.lock,Groovy,Python,XML,INI,JSON,Other,CSS,YAML,HTML,CSV,.env%20file,Markdown,JSX,TSConfig,SCSS,Prisma,Properties,SQL,Text,PowerShell,SourceMap,Sass,Git,EditorConfig,Dockerfile,Nginx,WakaTime%20Stats,GitIgnore%20file,Nginx%20configuration%20file,Git%20Config,Image%20(svg),ESLint%20File" alt="LucasVanni's wakatime stats" />
+    </a>
+</div>
+
+
+
 <div align="center">
    <h3>Languages and Tools:</h3>
     <div>
@@ -73,12 +81,7 @@
 
 <br/>
 
-<div align="center">
-    <h3>Status do wakatime</h3>
-     <a href="https://wakatime.com/@lucasvanni">
-        <img  width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvanni&show_icons=true&theme=algolia" alt="LucasVanni's wakatime stats" />
-    </a>
-</div>
+
 
  <br/>
 
