@@ -76,6 +76,12 @@
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
             <img align="center" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E54C21?style=for-the-badge&logoColor=fff&logo=html5" /> 
         </a>
+        <a href="https://docker.com">
+            <img align="center" alt="docker" src="https://img.shields.io/badge/-Docker-0488B0?style=for-the-badge&logoColor=fff&logo=docker" />
+        </a>
+        <a href="https://docs.docker.com/compose/">
+            <img align="center" alt="docker" src="https://img.shields.io/badge/-Docker%20Compose-ff2727?style=for-the-badge&logoColor=fff&logo=docker" />
+        </a>
     </div>
  </div>
 
