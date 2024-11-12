@@ -55,6 +55,9 @@
         <a href="https://nextjs.org/">
             <img align="center" alt="NextJS" src="https://img.shields.io/badge/-NEXT_JS-ccc?style=for-the-badge&logoColor=000000&logo=next.js"" />
         </a>
+         <a href="https://www.typescriptlang.org">
+            <img align="center" alt="Typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logoColor=fff&logo=typescript" />
+        </a>
     </div>
     <br/>
     <div>
