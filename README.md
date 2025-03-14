@@ -8,7 +8,7 @@
 - :books: Also studied react native at [b7web](https://b7web.com.br).
 - :man_technologist: Worked with VueJS (v2), ReactJS (NextJS) and NestJS.
 - :man_technologist: Previous work with Typescript(TS) at [Kodus](https://github.com/kodustech)
-- :man_technologist: Currently i'm in open to work
+- :man_technologist: Currently i'm working with React Native at [Sys3](https://www.sys3sistemas.com.br) alocated in [midway](https://www.midway.com.br/)
 - :man_technologist: Currently studing [Full Cycle Course](https://fullcycle.com.br/)
 - Can u call with me? Send a message to me at [LinkedIn](https://www.linkedin.com/in/lucas-vanni/)
 
