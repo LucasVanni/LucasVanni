@@ -101,7 +101,7 @@
 
 <div align="center">
     <h3 align="center">Connect with me in</h3>
-    <a href="https://www.linkedin.com/in/lucas-v0579/">
+    <a href="https://www.linkedin.com/in/lucas-vanni/">
         <img align="center" alt="Lucas Vanni | LinkedIn"  width="40px" src="https://github.com/LucasVanni/LucasVanni/blob/master/imgs/linkedin.png" />
     </a>
     <a  href="https://github.com/LucasVanni">
